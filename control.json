@@ -1,0 +1,13 @@
+{
+  "global_enabled": true,
+  "version": "1.0",
+
+  "users": {
+    "user123": {
+      "enabled": true,
+      "expire": "2026-02-10T23:59:59",
+      "selector": "#claim",
+      "interval": 30000
+    }
+  }
+}
