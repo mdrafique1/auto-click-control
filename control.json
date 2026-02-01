@@ -5,7 +5,14 @@
   "users": {
     "user123": {
       "enabled": true,
-      "expire": "2026-02-10T23:59:59",
+      "expire": "2026-02-01T23:59:59",
+      "selector": "#claim",
+      "interval": 30000
+    },
+
+    "rafique01": {
+      "enabled": true,
+      "expire": "2026-02-30T23:59:59",
       "selector": "#claim",
       "interval": 30000
     }
