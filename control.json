@@ -3,14 +3,14 @@
   "version": "1.0",
 
   "users": {
-    "user123": {
+    "https://www.microworkers.com/jobs.php": {
       "enabled": true,
       "expire": "2026-02-01T23:59:59",
       "selector": "#claim",
       "interval": 30000
     },
 
-    "rafique01": {
+    "https://www.microworkers.com/jobs.php": {
       "enabled": true,
       "expire": "2026-02-30T23:59:59",
       "selector": "#claim",
